@@ -16,7 +16,6 @@ namespace AConsole
 {
     class Program
     {
-
         struct Vec3D
         {
             public float x, y, z;
@@ -31,6 +30,7 @@ namespace AConsole
 
             if (!isValid)
             {
+                Console.WriteLine("Please start up the right version of Assault Cube");
                 return;
             }
 
