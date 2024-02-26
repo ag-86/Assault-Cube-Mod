@@ -1,4 +1,4 @@
-# LoginRegistrationSystem
+# C# External teleport cheat for Assault Cube
 
 ⚠️ No maintenance (Assault Cube version 1.2).
 
