@@ -1,6 +1,6 @@
 # LoginRegistrationSystem
 
-⚠️ No maintenance & version specific.
+⚠️ No maintenance (Assault Cube version 1.2).
 
 Contains:
   - Windows 32 API to read and write to memory.
