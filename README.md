@@ -1,4 +1,4 @@
-# C# External teleport cheat for Assault Cube
+# C# External teleport mod for Assault Cube
 
 ⚠️ No maintenance (Assault Cube version 1.2).
 
